@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @quameboama01
-- 👀 I’m interested in Application Development 
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in Application Development and Cyber Security
+- 🌱 I’m a Python Programmer
+- Proficient in Linux Servers, Networking and Penetration Testing
 - 💞️ I’m looking to collaborate on intermediate python projects
 
 <!---
